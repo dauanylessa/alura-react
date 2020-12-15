@@ -1,0 +1,36 @@
+(1)
+	npm -> Node Package Manager
+
+
+(2)
+	npx -> É equivalente ao NPM mas instala e descarta da estação, ou seja, ficará somente no pacote instalado.
+
+
+(3)
+
+	Criando o projeto:
+
+		npx create-react-app my-app
+		cd my-app
+		npm start
+
+(4)
+
+	Versão LTS (Long Term Support) 
+		- Significa que terá suporte por um longo tempo ainda, normalmente 5 anos.
+
+(5)
+
+	nvm - Node Version Manager - Gerenciador das instalações do próprio Node - Permite instalar, trocar ou listar versões, entre outras funções.
+
+		nvm install [version]
+
+		nvm list
+
+		nvm use [version]
+		
+		nvm --version 
+
+	
+
+
